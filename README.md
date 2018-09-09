@@ -12,6 +12,10 @@
 
 # Usage
 
+	imcollage('img4.jpeg',64);
+
+# Api
+
 	function dest = imcollage(filename,segments)
 	%IMCOLLAGE 将图像转换成由拼贴拼成的图像
 	%   将图像转换成由拼贴拼成的图像
